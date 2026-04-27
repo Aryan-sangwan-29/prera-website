@@ -44,8 +44,7 @@ PRERA bridges this gap by:
 
 * Frontend: HTML, CSS, JavaScript
 * (Optional: React / Next.js)
-* Backend: Node.js / Express *(if used)*
-* Database: MongoDB *(if used)*
+
 
 ---
 
