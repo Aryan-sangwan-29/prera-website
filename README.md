@@ -41,9 +41,8 @@ PRERA bridges this gap by:
 ---
 
 ##  Tech Stack
-
-* Frontend: HTML, CSS, JavaScript
-* (Optional: React / Next.js)
+* React.js
+* HTML
 
 
 ---
