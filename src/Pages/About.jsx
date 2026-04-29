@@ -1,0 +1,13 @@
+import Intro from '../About_components/about_intro'
+import Brands from '../About_components/about_brands'
+import Nav from '../Navbar.jsx'
+import AboutTeam from '../About_components/about-team'
+
+export default function About_page(){
+    return(<>
+    <Nav/>
+    <Intro/>
+    <Brands/>
+    <AboutTeam/>
+    </>)
+}

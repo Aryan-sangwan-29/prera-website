@@ -3,6 +3,7 @@ import "./about-team.css";
 import { FaLinkedin, FaInstagram } from "react-icons/fa";
 // import Chirag from "../assets/chirag.png";
 // import Aryan from "../assets/Aryan.png";
+
 import Anindya from "../assets/Anindya.png";
     
 function AboutTeam() {
@@ -69,3 +70,7 @@ function AboutTeam() {
 }
 
 export default AboutTeam;
+
+
+
+
