@@ -11,6 +11,7 @@ function App() {
 
     <Routes>
       <Route path='/about' element={<About_page />}></Route>
+      <Route path='/connect' element={<ContactPage />}></Route>
     </Routes>
   </>)
 }

@@ -5,7 +5,6 @@ import AboutTeam from '../About_components/about-team'
 
 export default function About_page(){
     return(<>
-    <Nav/>
     <Intro/>
     <Brands/>
     <AboutTeam/>
