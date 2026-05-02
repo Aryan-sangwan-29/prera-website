@@ -1,4 +1,8 @@
 /* MAIN */
+.body{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
 .contactMain {
   width: 100%;
   min-height: 100vh;
