@@ -5,7 +5,7 @@ export default function Nav(){
     return (
         <div id='nav-div'>
 
-                <h2 style={{color:'black'}}>PRERA</h2>
+                <h2 style={{color:'white'}}>PRERA</h2>
 
 
                 <div style={{display:'flex',gap:'30px',alignItems:'center'}}>
