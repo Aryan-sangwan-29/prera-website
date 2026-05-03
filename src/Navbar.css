@@ -9,6 +9,7 @@
     padding: 0px 35px 0px 35px;
     position:sticky;
     top:0px;
+    z-index: 6px;
 }
 
 .links{
