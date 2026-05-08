@@ -12,7 +12,7 @@ export default function Nav(){
                     <Link to='/' className='links'>Home</Link>
                     <Link to='/about' className='links'>About</Link>
                     <Link to='/events' className='links'>Events</Link>
-                    <Link to='/partners' className='links'>Partners</Link>
+                    <Link to='/partner' className='links'>Partners</Link>
                     <Link to='/connect' id='connect'>Lets Connect</Link>
                 </div>
         </div>

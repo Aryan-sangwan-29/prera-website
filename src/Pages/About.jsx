@@ -5,7 +5,7 @@ import AboutTeam from '../About_components/about-team'
 import Impact from '../About_components/impact.jsx'
 
 export default function About_page(){
-    return(<div style={{marginLeft:'80px',marginRight:'80px'}}>
+    return(<div style={{marginLeft:'80px',marginRight:'80px', paddingTop: '80px'}}>
     <Intro/>
 
     <Impact/>

@@ -1,4 +1,5 @@
 import Number from './numbers_card';
+import '../CSS/About.css';
 
 export default function Impact(){
     return (<div id="impact-div">
@@ -8,7 +9,7 @@ export default function Impact(){
 
         <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)'}}>
             <Number number={'25+'} message={"Events Organized"}/>
-            <Number number={'50+'} message={"Brands Partnered"}/>
+            <Number number={'20+'} message={"Brands Partnered"}/>
             <Number number={'500+'} message={"Audience reached"}/>
             <Number number={'95%'} message={"Client Satisfaction"}/>
         </div>
