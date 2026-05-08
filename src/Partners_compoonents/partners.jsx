@@ -1,7 +1,8 @@
-import 'Partners_compoonents/Partners.css';
+import './Partners.css';
 import React from "react";
 import Nav from '../Navbar.jsx';
-
+import logo1 from '../assets/Anindya.png'; // DO NOT DELETE THESE IMPORTS
+import logo2 from '../assets/Culmyca.png'; // THEY ARE NEEDED FOR THE LOGOS BELOW
 
 
 function Partners() {
