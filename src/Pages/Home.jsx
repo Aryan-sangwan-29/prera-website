@@ -5,7 +5,7 @@ import Impact from '../About_components/impact.jsx';
 export default function Home(){
     return(<div>
         <Home_intro />
-        <div style={{marginLeft:'80px',marginRight:'80px',marginBottom:'50px', marginTop:'100px'}}>
+        <div className='home-impact-wrapper'>
             <Impact/>
         </div>
     </div>)

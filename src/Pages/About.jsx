@@ -5,12 +5,12 @@ import AboutTeam from '../About_components/about-team'
 import Impact from '../About_components/impact.jsx'
 
 export default function About_page(){
-    return(<div style={{marginLeft:'80px',marginRight:'80px', paddingTop: '80px'}}>
+    return(<div className='about-page-wrapper'>
     <Intro/>
 
     <Impact/>
 
-    <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'20px',marginTop:'100px'}}>
+    <div className='about-details-grid'>
     <AboutDetailsCard heading={'Our Mission'} content={'To empower event organizers by connecting them with brands that align with their vision, creating authentic partnerships that drive mutual success.'}/>
 
         <AboutDetailsCard heading={'Specialisation'} content={<ul>
@@ -31,3 +31,4 @@ export default function About_page(){
 
     <AboutTeam/>
     </div>)}
+

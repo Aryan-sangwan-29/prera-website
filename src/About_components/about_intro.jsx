@@ -4,8 +4,8 @@ export default function Intro() {
     return (<div style={{ marginTop: '80px' }}>
         <h3 id='about-box'>About Prera</h3>
 
-        <h1 style={{ fontSize: '55px', fontWeight: 'bolder', color: 'white', marginBottom: '0px' }}>The Bridge Between</h1>
-        <h1 style={{ fontSize: '55px', fontWeight: 'bolder', marginTop: '0px', color: 'gold' }}>Brands & Organizers</h1>
+        <h1 className='about-heading'>The Bridge Between</h1>
+        <h1 className='about-heading-gold'>Brands & Organizers</h1>
 
         <p id='intro-content' >
             Prera is more than a platform—we're your strategic partner in creating unforgettable

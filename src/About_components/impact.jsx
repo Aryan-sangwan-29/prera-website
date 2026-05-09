@@ -7,7 +7,7 @@ export default function Impact(){
         <h3 style={{color:'rgb(187, 184, 184)',fontWeight:'lighter',marginTop:'5px'
             ,marginBottom:'20px'}}>Delivering results that matter</h3>
 
-        <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)'}}>
+        <div className='impact-numbers-grid'>
             <Number number={'25+'} message={"Events Organized"}/>
             <Number number={'20+'} message={"Brands Partnered"}/>
             <Number number={'500+'} message={"Audience reached"}/>
