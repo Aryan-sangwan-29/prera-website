@@ -159,3 +159,22 @@ body {
         width: 94%;
     }
 }
+
+.filter{
+    cursor:pointer;
+    font-size:25px;
+    border-radius:20px;
+    background-color:gold;
+    color:black;
+    padding:10px;
+    width:90px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.filter:hover{
+    background-color:black;
+    border:1px solid rgba(255, 215, 0,0.5);
+    color:gold;
+    font-size:22px;
+}
